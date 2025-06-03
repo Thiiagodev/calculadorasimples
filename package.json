@@ -1,0 +1,16 @@
+{
+  "name": "calculadorasimples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javaloucura.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
